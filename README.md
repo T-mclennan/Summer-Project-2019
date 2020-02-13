@@ -7,11 +7,8 @@
 #### The goal of our project is to create a platform where citizens of San Francisco can report hazards to the city for cleanup. 
 
 ---
-
-### Design Documents: 
-
- - [Milestone 1](https://github.com/T-mclennan/Summer-Project-2019/files/4195816/CSC648-848.Summer.2019.Milestone1.Team2.pdf)
- - [Milestone 2](https://github.com/T-mclennan/Summer-Project-2019/files/4195818/CSC648-848.Summer.2019.Milestone2.Team2.pdf)
+<embed src="https://github.com/T-mclennan/Summer-Project-2019/files/4195818/CSC648-848.Summer.2019.Milestone2.Team2.pdf?raw=true" type="application/pdf" />
+- ### [Design Document](https://github.com/T-mclennan/Summer-Project-2019/files/4195818/CSC648-848.Summer.2019.Milestone2.Team2.pdf?raw=true)
 
 
 
