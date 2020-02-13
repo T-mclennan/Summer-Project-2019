@@ -1,4 +1,4 @@
-# Safe SF Hazard Reporting Platform
+# [Safe SF Hazard Reporting Platform](http://safesf.ddns.net/)
 
 ---
 
