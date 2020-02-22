@@ -32,7 +32,7 @@
 
    - Guest users without accounts can search, use the map, and view details of hazards in SF.
    - Users that are logged in can also submit a hazard report, including a description, picture, and location pin. 
-   - Admins are given a special access token that allows for the ability to see pending hazards, and asign, or deny them. 
+   - Admins are given a special access token that allows for the ability to see pending hazards, and assign, or deny them. 
    - Once a hazard has been asigned by an admin it is visible to everyone. Admins can chane the status to 'completed' once the task is done.
    
 ---
